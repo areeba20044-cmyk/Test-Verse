@@ -60,40 +60,6 @@ testverse/
 
 ---
 
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/testverse.git
-```
-
-### Navigate to the Project Folder
-
-```bash
-cd testverse
-```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Start the Development Server
-
-```bash
-npm run dev
-```
-
-Open your browser and visit:
-
-```
-http://localhost:5173
-```
-
----
-
 ## 🎯 Project Objectives
 
 - Provide a free platform to learn Exploratory Testing.
